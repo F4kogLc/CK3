@@ -1,0 +1,11 @@
+﻿l_korean:
+ daddy_pika_information:0 "Information Menu"
+ information_desc:0 "This shows general information like useful tips, finding features, and the changelog."
+ information_TT:0 "Click to see the details about this mod."
+ 
+ dp_information.changelog.t:0 "Changelogs"
+ dp_information.changelog.d:0 "1.2.0\n- Added Adopt Character Interaction\n- Added Disown Character Interaction\n- Added Designate Heir Character Interaction.\n- Added Character Spawner Menu\n- Adds spawning new councilors directly to your council.\n- Adds children and courtiers to join your court.\n- Can spawn multiple characters.\n- Universalized bits of localisation.\n- Changed trait names for some. \n- Fixed multiple bugs and made general improvements.\n1.1.9\n Presents Menu.\n- Adds Lifestyle Completion Presents. \n- Adds Health Condition Presents. \n- Adds Trait Presents.\n- Adds Character Presents.\n- Adds Innovation Presents.\n Currency Menu\n- Added Dread and Weight 'currencies.'\n- Can lock certain modifiers in that menu."
+ dp_information.useful_tips.t:0 "Useful tips"
+ dp_information.useful_tips.d:0 "- Click once to add, and click again to remove. Apply this to the trait menus.\n- When a trait doesn't show up, this doesn't mean the mod is broken, it means there is a conflicting trait.\n- Some interactions won't show up on certain characters, because of certain limitations.\n- Spawning a bunch of children can be a major hassle.\n- There is an immortality trait which can be found in the trait section of the Character Editor."
+ dp_information.locations.t:0 "Find Features"
+ dp_information.locations.d:0 "\n- Character Spawner has moved to the new Character Spawner Menu.\n- Lifestyle points and Innovation have changed and are now found in the Presents Menu.\n- Gold can be found in the Currency Menu.\n- Culture innovations can be found in the Presents Menu within the Character Editor.\n- In the Character Spawn Menu, you can spawn councilors, courtiers, and children. Be careful though.\n- In the bottom of the interactions menu, there is a dynasty killer button. You can designate survivors, and finalize killing of an entire dynasty.."
